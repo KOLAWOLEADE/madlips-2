@@ -5,3 +5,12 @@
 body{
     background-color: bisque;
 }
+
+#cardinal-point{
+    color: blue;
+}
+
+.form-control{
+    width: 300px;
+
+}
